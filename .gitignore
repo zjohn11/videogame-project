@@ -1,0 +1,25 @@
+# User-specific files
+ProjectSettings/
+Assets/
+
+# Unity generated files
+Library/
+Temp/
+Obj/
+.vs/
+.idea/
+Build/
+Builds/
+
+# Package manager
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Unity cache
+/.vscode/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
