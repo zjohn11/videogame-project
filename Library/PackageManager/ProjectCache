@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/zjohn/Level1Prototype/Level1/Packages/manifest.json
+    m_FilePath: C:/Users/brenn/Documents/GitHub/videogame-project/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638750149102774138
-    m_Hash: 2368570272
+      ticks: 638764699952411141
+    m_Hash: 2801734946
   m_LockFileStatus:
-    m_FilePath: C:/Users/zjohn/Level1Prototype/Level1/Packages/packages-lock.json
+    m_FilePath: C:/Users/brenn/Documents/GitHub/videogame-project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638750149102839268
-    m_Hash: 3782847824
+      ticks: 638764699952497705
+    m_Hash: 3578004554
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/zjohn/Level1Prototype/Level1/Packages
+m_ProjectPath: C:/Users/brenn/Documents/GitHub/videogame-project/Packages
 m_EditorVersion: 6000.0.36f1 (9fe3b5f71dbb)
 m_ResolvedPackages:
 - packageId: com.spoiledcat.git@1.0.44
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.44
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.spoiledcat.git@a5968714214e
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.spoiledcat.git@a5968714214e
   assetPath: Packages/com.spoiledcat.git
   name: com.spoiledcat.git
   displayName: Git for Unity
@@ -111,7 +111,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.2d.sprite@288185b75ab4
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.2d.sprite@288185b75ab4
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -181,7 +181,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.2d.tilemap@91020cbfae56
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.2d.tilemap@91020cbfae56
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -268,7 +268,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.4.2
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.ads@a7b997f68a1d
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.ads@a7b997f68a1d
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement Legacy
@@ -401,7 +401,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.5
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.ai.navigation@9f76b145f0a8
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.ai.navigation@9f76b145f0a8
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -511,7 +511,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.8.1
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.analytics@6cc66d58ac08
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.analytics@6cc66d58ac08
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -639,7 +639,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.6.0
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.collab-proxy@001b54a8988a
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.collab-proxy@001b54a8988a
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -731,8 +731,10 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     - 2.6.0
+    - 2.7.1
     compatible:
     - 2.6.0
+    - 2.7.1
     recommended: 2.6.0
     deprecated: []
   dependencies: []
@@ -827,7 +829,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.31
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.ide.rider@7921be93db40
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.ide.rider@7921be93db40
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -946,7 +948,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -1047,12 +1049,195 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.22
     minimumUnityVersion: 2019.4.25f1
+- packageId: com.unity.inputsystem@1.12.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.12.0
+  source: 1
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.inputsystem@920b46832575
+  assetPath: Packages/com.unity.inputsystem
+  name: com.unity.inputsystem
+  displayName: Input System
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: A new input system which can be used as a more extensible and customizable
+    alternative to Unity's classic input system in UnityEngine.Input.
+  errors: []
+  versions:
+    all:
+    - 0.1.2-preview
+    - 0.2.0-preview
+    - 0.2.1-preview
+    - 0.2.6-preview
+    - 0.2.8-preview
+    - 0.2.10-preview
+    - 0.9.0-preview
+    - 0.9.1-preview
+    - 0.9.2-preview
+    - 0.9.3-preview
+    - 0.9.4-preview
+    - 0.9.5-preview
+    - 0.9.6-preview
+    - 1.0.0-preview
+    - 1.0.0-preview.1
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.0-preview.5
+    - 1.0.0-preview.6
+    - 1.0.0-preview.7
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.1.0-pre.5
+    - 1.1.0-pre.6
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.1
+    - 1.2.0
+    - 1.3.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4
+    - 1.5.0
+    - 1.5.1
+    - 1.6.1
+    - 1.6.3
+    - 1.7.0
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.0
+    - 1.11.0
+    - 1.11.1
+    - 1.11.2
+    - 1.12.0
+    - 1.13.0
+    - 1.13.1
+    compatible:
+    - 1.12.0
+    - 1.13.0
+    - 1.13.1
+    recommended: 1.12.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.hierarchycore
+    version: 1.0.0
+  keywords:
+  - input
+  - events
+  - keyboard
+  - mouse
+  - gamepad
+  - touch
+  - vr
+  - xr
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638726197023440000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.12/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/InputSystem.git
+    revision: 98646c95066dabdc4cb605460a32213c2c078e46
+    path: 
+  unityLifecycle:
+    version: 1.12.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n- Fixed an issue causing the Action context
+    menu to not show on right click when right clicking an action in the Input Action
+    Editor [ISXB-1134](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1134).\n-
+    Reverted changes from 0ddd534d8 (ISXB-746) which introduced a regression [ISXB-1127](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1127).\n-
+    Fixed `ArgumentNullException: Value cannot be null.` during the migration of
+    Project-wide Input Actions from `InputManager.asset` to `InputSystem_Actions.inputactions`
+    asset which lead do the lost of the configuration [ISXB-1105](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1105).\n-
+    Fixed pointerId staying the same when simultaneously releasing and then pressing
+    in the same frame on mobile using touch. [ISXB-1006](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-845).\n-
+    Fixed ISubmitHandler.OnSubmit event processing when operating in Manual Update
+    mode (ISXB-1141).\n- Fixed Rename mode is not entered and name is autocompleted
+    to default when creating a new Action Map on 2022.3. [ISXB-1151](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1151).\n-
+    Fixed unexpected control scheme switch when using `OnScreenControl` and pointer
+    based schemes which registed \"Cancel\" event on every frame.[ISXB-656](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-656).\n-
+    Fixed an issue with The \"Add Control Scheme...\" popup window so that it now
+    persists until any changes are explicitly Saved or Cancelled [case ISXB-1131](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1131).\n-
+    Fixed missing documentation for source generated Input Action Assets. This is
+    now generated as part of the source code generation step when \"Generate C# Class\"
+    is checked in the importer inspector settings.\n- Fixed pasting into an empty
+    map list raising an exception. [ISXB-1150](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1150)\n-
+    Fixed pasting bindings into empty Input Action asset. [ISXB-1180](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1180)\n-
+    Fixed missing ''&'' symbol in Control Scheme dropdown on Windows platform. [ISXB-1109](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1109)\n-
+    Fixed icon scaling in Input Actions window.\n- Fixed an issue where removing
+    the InputSystem package could lead to invalid input handling settings.\n- Fixed
+    `ArgumentOutOfRangeException` when adding a new Control Scheme with any Device
+    selected. [ISXB-1129](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1129)\n-
+    Fixed a CS0105 compiler warning due to duplicate using statement in test source
+    code (ISXB-1247).\n- Fixed tooltip support in the UI Toolkit version of the Input
+    Actions Asset editor.\n- Fixed documentation to clarify bindings with modifiers
+    `overrideModifiersNeedToBePressedFirst` configuration [ISXB-806](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-806).\n-
+    Fixed an issue in `Samples/Visualizers/GamepadVisualizer.unity` sample where
+    the visualization wouldn''t handle device disconnects or current device changes
+    properly (ISXB-1243).\n- Fixed an issue when displaying Serialized InputAction''s
+    Processor properties inside the Inspector window. [ISXB-1269](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1269)\n-
+    Fixed an issue with default device selection when adding new Control Scheme.\n-
+    Fixed an issue where action map delegates were not updated when the asset already
+    assigned to the PlayerInput component were changed [ISXB-711](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-711).\n-
+    Fixed Action properties edition in the UI Toolkit version of the Input Actions
+    Asset editor. [ISXB-1277](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1277)\n-
+    Fixed an editor crash caused by input debugger device state window reusing cached
+    state when reconnecting Stadia controller. [ISXB-658](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-658)\n-
+    Fixed an issue where batch jobs would fail with \"Error:"}'
+  assetStore:
+    productId: 
+  fingerprint: 920b46832575a5beecb201e0a4570b4984b7ec34
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.12.0
+    minimumUnityVersion: 2019.4.0a1
 - packageId: com.unity.multiplayer.center@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.multiplayer.center@f502d8ac613f
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.multiplayer.center@f502d8ac613f
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1142,7 +1327,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.12.2
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -1329,7 +1514,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.4.5
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.test-framework@0a21eb82d95c
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.test-framework@0a21eb82d95c
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1494,7 +1679,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.timeline@c58b4ee65782
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1679,7 +1864,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.ugui@24b10291b18f
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.ugui@24b10291b18f
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1771,7 +1956,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.11
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.xr.legacyinputhelpers@a3936666e068
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.xr.legacyinputhelpers@a3936666e068
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -4310,7 +4495,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4389,7 +4574,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.14.0
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.services.core@9e81a5e38245
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.services.core@9e81a5e38245
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -4507,7 +4692,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 6.0.1
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.services.analytics@f7e249983920
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.services.analytics@f7e249983920
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -4635,7 +4820,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.2.1
   source: 1
-  resolvedPath: C:\Users\zjohn\Level1Prototype\Level1\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
+  resolvedPath: C:\Users\brenn\Documents\GitHub\videogame-project\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
