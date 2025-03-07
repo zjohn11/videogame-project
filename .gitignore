@@ -12,8 +12,8 @@ Build/
 Builds/
 
 # Package manager
-Packages/manifest.json
-Packages/packages-lock.json
+# Packages/manifest.json
+# Packages/packages-lock.json
 
 # Unity cache
 /.vscode/
