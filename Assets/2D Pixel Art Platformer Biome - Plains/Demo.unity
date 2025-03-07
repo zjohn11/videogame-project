@@ -4887,12 +4887,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 712773011}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -35.19, y: -4.65, z: 10.38}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -31.64, y: -8.5, z: 7.83}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1133059743}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &724584282
 GameObject:
@@ -5318,7 +5318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 770274209}
   moveSpeed: 5
-  jumpPower: 5
+  jumpPower: 8
   groundCheckPos: {fileID: 1991256983}
   groundCheckSize: {x: 0.8, y: 0.1}
   groundLayer:
@@ -37512,7 +37512,8 @@ Transform:
   m_LocalPosition: {x: -3.55, y: 3.85, z: 2.55}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 712773012}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!70 &1133059744
@@ -37578,7 +37579,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &1133059746
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -43272,5 +43273,4 @@ SceneRoots:
   - {fileID: 624239914}
   - {fileID: 1487901425}
   - {fileID: 1133059743}
-  - {fileID: 712773012}
   - {fileID: 770274211}
